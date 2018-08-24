@@ -12,9 +12,9 @@ This project helped us to gain in-depth knowledge about various data- structures
 
 # Data Structure Used 
   
-  -Map
-  -Graph  
-  -Queue  
-  -Set 
-  -Vector
+  * Map
+  * Graph  
+  * Queue  
+  * Set 
+  * Vector
      
