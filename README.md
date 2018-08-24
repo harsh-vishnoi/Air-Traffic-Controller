@@ -13,7 +13,7 @@ This project helped us to gain in-depth knowledge about various data- structures
 # Data Structure Used 
  
   -Vector
+  -Map
   -Graph  
   -Queue  
   -Set    
-  -Map
