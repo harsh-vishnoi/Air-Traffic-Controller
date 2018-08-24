@@ -9,11 +9,12 @@ This Project aims at building a basic air-traffic-controller.This project consis
 
 This project helped us to gain in-depth knowledge about various data- structures and their use in real world applications like these.
 
- 
+
 # Data Structure Used 
- 
-  -Vector
+  
   -Map
   -Graph  
   -Queue  
-  -Set    
+  -Set 
+  -Vector
+     
