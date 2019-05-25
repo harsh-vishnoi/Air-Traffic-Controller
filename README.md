@@ -8,13 +8,4 @@ This Project aims at building a basic air-traffic-controller.This project consis
  - Reserve and cancellation of seats.
 
 This project helped us to gain in-depth knowledge about various data- structures and their use in real world applications like these.
-
-
-# Data Structure Used 
-  
-  * Map
-  * Graph  
-  * Queue  
-  * Set 
-  * Vector
      
